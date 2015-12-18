@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:ExportManifest xmlns:ns2="http://www.pentaho.com/schema/">
+    <ExportManifestInformation exportDate="18-12-2015 11:40:53 CET" exportBy="admin" rootFolder="/home/admin/" manifestVersion="2"/>
+    <ExportManifestEntity path="Example.wcdf">
+        <ExportManifestProperty>
+            <EntityMetaData name="Example.wcdf" createdDate="2015-12-17T00:28:05.114+01:00" isFolder="false" path="Example.wcdf" isHidden="false" locale="es_ES" description="Example" title="Example"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+</ns2:ExportManifest>
